@@ -22,11 +22,7 @@ The dataset was loaded and then it was checked for missing NO₂ values. We only
 
 After we got the data ready, the NO2 values were changed using the formula that was given in the question:
 
-\[
-
-z = x + a_r \sin(b_r x)
-
-\]
+$\hat{p}(z) = c e^{-\lambda (z - \mu)^2}$
 
 The university roll number was used to figure out the values of \(a_r\) and \(b_r\). This change makes a difference to the data that is not linear. The new values are still pretty close to the original NO₂ values. The transformation does not change the NO₂ values drastically.
 
