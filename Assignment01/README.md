@@ -32,7 +32,7 @@ The transformed values \(z\) were modeled using the following probability densit
 
 $\hat{p}(z) = c e^{-\lambda (z - \mu)^2}$
 
-We estimated the parameters using basic statistical ideas. The mean of \(z\) was taken as \( \mu \). We then calculate the variance of \(z\). We used this variance to calculate \( \lambda \). The value of \(c\) was chosen so that the total area under the curve adds up to one, making it valid.
+We estimated the parameters using basic statistical ideas. The mean of \(z\) was taken as \( mu \). We then calculate the variance of \(z\). We used this variance to calculate \( lambda \). The value of \(c\) was chosen so that the total area under the curve adds up to one, making it valid.
 
 ---
 
